@@ -1,0 +1,3 @@
+TOKEN = ''
+DEBUG = False
+WITHDRAW_LIMIT = 0.0011
